@@ -5,8 +5,8 @@
 */
 #include <stdio.h>
 int main(){
-    int a=0;
+    int a = 0;
     printf("输入一个整数：");
-    scanf("%d",&a);
-    printf("整数减去6的结果是%d\n",a-6);
+    scanf("%d", &a);
+    printf("整数减去6的结果是%d\n", a - 6);
 }
